@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    text-decoration: none;
+}
+
+.brand {
+    font-weight: 700;
+    text-align: center;
+}
+
+.brand .brand_name {
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+}
+
+@media only screen and (max-width:768px) {
+    .brand .brand_name {
+        font-size: 18px !important;
+    }
+}
+
+.github {
+    background-image: url('https://anisshal.github.io/github.svg');
+    display: block;
+    height: 30px;
+    width: 30px;
+    background-size: cover;
+
+}
+
+.twitter {
+    background-image: url('https://anisshal.github.io/twitter.svg');
+    display: block;
+    height: 32px;
+    width: 32px;
+    background-size: cover;
+
+}
+
+.linkedin {
+    background-image: url('https://anisshal.github.io/linkedin.svg');
+    display: block;
+    height: 30px;
+    width: 30px;
+    background-size: cover;
+}
+
+.flutter {
+    background-image: url('https://anisshal.github.io/img/flutter.png');
+    display: block;
+    height: 24px;
+    width: 24px;
+    background-size: cover;
+
+}
+
+.html {
+    background-image: url('https://anisshal.github.io/img/html.png');
+    display: block;
+    height: 24px;
+    width: 24px;
+    background-size: cover;
+
+}
+
+.css {
+    background-image: url('https://anisshal.github.io/img/css.png');
+    display: block;
+    height: 24px;
+    width: 24px;
+    background-size: cover;
+
+}
+
+.js {
+    background-image: url('https://anisshal.github.io/img/js.png');
+    display: block;
+    height: 24px;
+    width: 24px;
+    background-size: cover;
+
+}
+
+.python {
+    background-image: url('https://anisshal.github.io/img/python.png');
+    display: block;
+    height: 24px;
+    width: 24px;
+    background-size: cover;
+
+}
+
+.flask {
+    background-image: url('https://anisshal.github.io/img/flask.png');
+    display: block;
+    height: 24px;
+    width: 24px;
+    background-size: cover;
+
+}
+
+.numpy {
+    background-image: url('https://anisshal.github.io/img/numpy.png');
+    display: block;
+    height: 24px;
+    width: 24px;
+    background-size: cover;
+
+}
